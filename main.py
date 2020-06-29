@@ -9,7 +9,9 @@
 # if user is note active set: user_active = False
 user_active = True
 
-
+# this user_w_ping variable can be used to test both cases (w/ ping and w/o ping - toggle true false values)
+# if user's PING set up is complete set: user_w_ping = True
+# if user's PING set up is not complete set: user_w_ping = False
 user_w_ping = True
 
 # this user_w_ping variable can be used to test both cases (w/ ping and w/o ping - toggle true false values)
